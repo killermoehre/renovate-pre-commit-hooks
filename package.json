@@ -1,0 +1,22 @@
+{
+  "name": "renovate-pre-commit-hooks",
+  "version": "1.0.0",
+  "description": "pre-commit hooks for renovate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killermoehre/renovate-pre-commit-hooks.git"
+  },
+  "keywords": [
+    "renovate",
+    "pre-commit"
+  ],
+  "author": "Silvio Knizek <knizek@b1-systems.de>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/killermoehre/renovate-pre-commit-hooks/issues"
+  },
+  "homepage": "https://github.com/killermoehre/renovate-pre-commit-hooks#readme",
+  "dependencies": {
+    "renovate": "*"
+  }
+}
